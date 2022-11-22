@@ -1,5 +1,6 @@
-#include<bits/stdc++.h>
+//removes a character from a string by recursion
 
+#include<bits/stdc++.h>
 using namespace std;
 
 string removeX(string str,char ch){

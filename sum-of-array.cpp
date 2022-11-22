@@ -1,3 +1,5 @@
+//calculates sum of the array by recursion
+
 #include<iostream>
 #include<conio.h>
 

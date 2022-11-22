@@ -1,3 +1,5 @@
+// checks whether a integer array is sorted or not by recursion
+
 #include<iostream>
 #include<conio.h>
 

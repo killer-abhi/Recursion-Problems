@@ -1,3 +1,5 @@
+//program to find a number in a array of integers
+
 #include<iostream>
 #include<conio.h>
 
